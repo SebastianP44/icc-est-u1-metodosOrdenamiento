@@ -27,8 +27,7 @@ public class MetodoBurbujaAvanzado {
                         arreglo[j + 1] = aux;
 
                         huboIntercambios = true;
-
-                        // Imprimir como en la imagen
+                        
                         System.out.print(a + " -> " + b + " | arreglo=");
                         printArreglo();
                     }

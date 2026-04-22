@@ -22,7 +22,7 @@ public class MetodoSeleccion {
     }
 
     public void printArreglo(int[] arr) {
-        
+
 
     }
 
@@ -36,5 +36,7 @@ public class MetodoSeleccion {
 
         
     }
+    }
+}
     }
 }
